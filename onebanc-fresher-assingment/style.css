@@ -1,0 +1,92 @@
+*{
+
+    margin: 0; padding: 0; box-sizing: border-box;
+    background-color: dodgerblue;
+  
+  }
+.company-logo
+  { 
+    margin-left: 40px;
+    margin-top: 20px;
+    width: 300px;
+    height: 110px;
+    
+
+  }
+  
+h1
+{
+font-size: 45px;
+width: 50px;
+color: white;
+font-family:Verdana, Geneva, Tahoma, sans-serif; 
+margin-left:40px;
+margin-top: 150px;
+float: left;
+position: absolute;
+}
+p{
+margin-top:170px;
+margin-left:40px;
+padding:10px;
+font-size: 16px;
+color:white;
+font-family: cursive;
+float: left;
+position:absolute;
+}
+form
+{
+  margin-top: 300px;
+  margin-left: 50px;
+  font-family: cursive;
+  color:white;
+  float:left;
+  position: absolute;
+}
+.qrcode{
+  width: 260px;
+  height: 120px;
+  margin-top: 450px;
+  margin-left: 45px;
+  float:left;
+  position: absolute; 
+}
+.email_field{
+  background-color: white;
+  width: 78%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border:none;
+}
+.submit_button
+{
+  background-color: #40E0D0;
+  width: 20%;
+  padding: 12px 20px;
+  border:none;
+  margin-left: 0;
+  box-sizing: border-box;
+}
+.regularbanc{
+  height: 500px;
+  margin-left: 870px;
+  margin-top:0px;
+  padding-right: 70px;
+  border-right: 3px dashed white;
+
+}
+.onebanc{
+  height: 500px;
+  margin-left: 90px;
+  margin-top: 0px;
+  padding-right:0px ;
+}
+.text-last{
+  color: white;
+  background-color: transparent;
+  padding-top:20px;
+  font-size:15px;
+}
+
